@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sishi-Source, I'm 3rd year college student majoring on Computer Engineering
+- 👀 I’m interested in open-source softwares, linux, and embedded systems
+- 📖 I’m currently learning bare-metal programming and STM32
